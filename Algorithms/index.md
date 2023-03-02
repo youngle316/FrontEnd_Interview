@@ -19,3 +19,9 @@
 [二分查找](./BinarySearch.md)
 
 [两数之和](./TwoSum.md)
+
+[二叉搜索树的第 K 大节点](./BinarySearchTree.md)
+
+[斐波那契数列](./Fibonacci.md)
+
+[移动零](./MoveZeroes.md)
