@@ -8,7 +8,7 @@
 2. 一眼看出来能使用暴力解法的那肯定不是最优解，也不是面试官要的
 3. 不要闷头直接写，先想好步骤，边写边讲自己的思路
 
-[剑指 Offer 58 - II. 左旋转字符串](./Algorithms/LeftRotationString.md)
+[剑指 Offer 58 - II. 左旋转字符串](./LeftRotationString.md)
 
 [有效的括号](./ValidParentheses.md)
 
